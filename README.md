@@ -40,6 +40,10 @@ A cozy mountain village at golden hour, snow-capped peaks in the background, war
 
 La imagen se guarda en `imagen.png` en la carpeta desde la que ejecutas el comando.
 
+### Ejemplo de resultado
+
+![Imagen generada](imagen.png)
+
 ## Configuración
 
 Los parámetros están en `src/sd_turbo/__init__.py`:
